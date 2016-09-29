@@ -1,0 +1,33 @@
+body{
+	background-color:#d9d9d9;
+}
+.news{
+  background-color:#fff;
+}
+
+.padding_all_1{
+	padding:40px;
+}
+.padding_all_2{
+	padding:10px 40px;
+}
+
+.padding_left{
+	padding-left:40px;
+}
+
+.padding_right{
+	padding-right:40px;
+}
+
+.padding_top{
+	padding-top:40px;
+}
+
+.padding_bottom{
+	padding-bottom:40px;
+}
+
+span.red{
+	color:red;
+}

@@ -1,0 +1,8 @@
+body {
+	background-image: url(../images/danboard_2-wallpaper-960x600.jpg) ;
+	/*background-position: center bottom;*/ /*背景圖對齊位置 垂直置中 水平靠下*/
+	/*background-repeat: no-repeat;*/ /*背景圖重複情況 no-repeat, repeat-x, repeat-y*/
+	/*background-attachment:fixed;*/ /*背景圖附屬設定 scroll, fixed*/
+	/*background-size:cover;*/ /*背景圖尺寸 寬度 高度, cover*/
+	color:#fff;
+}

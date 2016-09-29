@@ -1,0 +1,30 @@
+body {
+	background: #acacac;
+	color:#fff;
+}
+
+div{
+	width:400px;
+	height:200px;
+}
+
+div.div_bg_1{
+	background:#000 url(../images/danboard_2-wallpaper-960x600.jpg) no-repeat;
+	background-position: center;
+	background-size: 110% auto;
+}
+
+div.div_bg_2{
+	background:#000 url(../images/this_is_sparta-wallpaper-960x600.jpg) no-repeat;
+	background-position: center;
+	background-size: 110% auto;
+}
+
+a.iron_man{
+	display: block;
+	width:40%;
+	height:300px;
+	background:#000 url(../images/shepard_fairey_iron_man_poster_by_ifdeathinspired-wallpaper-960x600.jpg) no-repeat;
+	background-position: center;
+	background-size: cover;
+}
